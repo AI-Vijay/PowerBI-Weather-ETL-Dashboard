@@ -1,5 +1,3 @@
-# PowerBI-Weather-ETL-Dashboard
-An automated mini-ETL pipeline and interactive Power BI dashboard tracking real-time meteorological data and 7-day forecasts via a RESTful Weather API.
 # Real-Time Weather Forecasting & Analytics Dashboard 🌦️
 
 ## Project Overview
@@ -48,8 +46,9 @@ To keep the semantic model organized, all calculations were isolated into a dedi
 
 ## 📁 Repository Contents
 * `Weather_Dashboard.pbix` - The complete Power BI project file (requires Power BI Desktop to view).
-* `Documentation/` - Contains the full project methodology report and technical architecture diagrams.
-* `Images/` - High-resolution screenshots of the dashboard interface and Power Query workflows.
+* `Documentation/` - Contains the full project methodology report (`DVTT Mini Project Report.pdf`) and technical architecture diagrams.
+* `Images/Screenshots/` - High-resolution captures of the dashboard interface, Power Query workflows, and data modeling.
+* `Images/Icons/` - Custom UI assets and symbology implemented within the dashboard.
 
 ## 👤 Author
-**Vijay Nagargoje** Third-Year B.Tech Student in Artificial Intelligence & Data Science
+**Vijay Nagargoje** Third-Year B.Tech Student in Artificial Intelligence & Data Science | MIT CSN
