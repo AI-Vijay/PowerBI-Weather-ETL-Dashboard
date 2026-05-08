@@ -1,5 +1,7 @@
 # Real-Time Weather Forecasting & Analytics Dashboard 🌦️
 
+![Main Dashboard View](Images/Screenshots/Weath_report_page-0001.jpg)
+
 ## Project Overview
 This project is an automated, interactive meteorological tracking system built in Microsoft Power BI. Instead of relying on static historical datasets, it utilizes a custom mini-ETL pipeline to pull live 7-day forecasts and current environmental conditions from a RESTful Weather API. 
 
