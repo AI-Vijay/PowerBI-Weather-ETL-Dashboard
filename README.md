@@ -46,6 +46,7 @@ To keep the semantic model organized, all calculations were isolated into a dedi
 
 ## 📁 Repository Contents
 * `Weather_Dashboard.pbix` - The complete Power BI project file (requires Power BI Desktop to view).
+* `Dataset/` - Contains a sample dataset (JSON/CSV) demonstrating the raw API payload structure before ETL transformations.
 * `Documentation/` - Contains the full project methodology report (`DVTT Mini Project Report.pdf`) and technical architecture diagrams.
 * `Images/Screenshots/` - High-resolution captures of the dashboard interface, Power Query workflows, and data modeling.
 * `Images/Icons/` - Custom UI assets and symbology implemented within the dashboard.
